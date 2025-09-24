@@ -82,7 +82,7 @@ smart-split-save/
 
 ## 📈 Architecture Diagram
 
-![Architecture Diagram](./docs/assets/architecture.png)  
+![Architecture Diagram](./docs/assets/architecture-diagram.png)  
 *(Detailed architecture diagram and technical explanation will be included in `docs/architecture.md`)*
 
 ---

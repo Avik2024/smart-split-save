@@ -78,6 +78,51 @@ smart-split-save/
 
 
 
+---
+
+## 📈 Architecture Diagram
+
+![Architecture Diagram](./docs/architecture.md)  
+*(Detailed architecture diagram and technical explanation will be included in `docs/architecture.md`)*
+
+---
+
+## 🗓 Project Roadmap
+
+This project will be developed over **5 months** following a Level III Engineer plan:
+1. Planning & architecture (Month 1)
+2. Backend microservices & core APIs (Month 2)
+3. Adaptive rules engine & ML integration (Month 3)
+4. Frontend dashboard (Month 4)
+5. Deployment, monitoring & documentation (Month 5)
+
+---
+
+## 🎓 Skills Showcased
+
+- System design & microservices
+- Event-driven architecture
+- Real-time data processing
+- Adaptive rule engines & ML integration
+- Cloud deployment & Kubernetes orchestration
+- Observability with Prometheus & Grafana
+- Modern React.js UI development
+
+---
+
+## 🔗 Links
+
+- [Architecture Document](./docs/architecture.md)
+- [Scope Document](./docs/scope.md)
+- [Day 1 Planning Log](./docs/day1-log.md)
+
+---
+
+## 📜 License
+This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
+
+
+
 
 
 

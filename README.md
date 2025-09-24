@@ -45,38 +45,41 @@ Managing shared savings is often tedious and manual. Smart Split & Save solves t
 
 ---
 
+
 ## 📂 Project Structure
 
-
+```plaintext
 smart-split-save/
-│
-├── backend/ # All backend microservices
-│ ├── auth-service/
-│ ├── goal-service/
-│ ├── transaction-service/
-│ ├── rule-engine/
-│ └── notification-service/
-│
-├── frontend/ # React frontend app
-│ ├── public/
-│ └── src/
-│ ├── components/
-│ ├── pages/
-│ ├── services/
-│ └── styles/
-│
-├── docs/ # Project documentation
-│ ├── architecture.md
-│ ├── scope.md
-│ └── day1-log.md
-│
-├── infra/ # Infrastructure & deployment configs
-│ ├── docker-compose.yml
-│ ├── k8s/
-│ └── terraform/
-│
-├── scripts/ # Utility scripts
-│
+├── backend/
+│   ├── auth-service/
+│   ├── goal-service/
+│   ├── transaction-service/
+│   ├── rule-engine/
+│   └── notification-service/
+├── frontend/
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── services/
+│       └── styles/
+├── docs/
+│   ├── architecture.md
+│   ├── scope.md
+│   └── day1-log.md
+├── infra/
+│   ├── docker-compose.yml
+│   ├── k8s/
+│   └── terraform/
+├── scripts/
 ├── .gitignore
 ├── README.md
 └── LICENSE
+
+
+
+
+
+
+
+

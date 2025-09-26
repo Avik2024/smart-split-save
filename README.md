@@ -98,6 +98,10 @@ This project will be developed over **5 months** following a Level III Engineer 
 
 ---
 
+## Dash Board
+![Architecture Diagram](./docs/assets/dashboard.png)
+An Overview of Dash Board Section.
+
 ## 🎓 Skills Showcased
 
 - System design & microservices
